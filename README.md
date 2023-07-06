@@ -46,7 +46,7 @@
 <p>14</p>
 <p></p>
 <p></p>
-<h1>G. Encoded Strings II</p>
+<h1>G. Encoded Strings II</h1>
 <p></p>
 <p>Examples</p>
 <p>inputCopy</p>
