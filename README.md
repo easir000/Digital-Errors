@@ -2,7 +2,7 @@
 <p># Digital-Errors</p>
 <p></p>
 <p></p>
-<h1>K. Easy vector</p>
+<h1>K. Easy vector</h1>
 <p></p>
 <p>Examples</p>
 <p>inputCopy</p>
